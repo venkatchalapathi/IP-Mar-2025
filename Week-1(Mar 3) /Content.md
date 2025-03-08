@@ -6,7 +6,7 @@
 
 ### **Week 1: Fundamentals & Problem Solving**
 - **Resume & LinkedIn Optimization:** Highlight Android expertise, contributions, and achievements.
-- **Referrals & Job Research:** Connect with FAANG employees and apply for referrals.
+- **Referrals & Job Research:** Connect with **** employees and apply for referrals.
 - **Data Structures Basics:** Arrays, Strings, Linked Lists, Stacks, Queues.
 - **Android Core Fundamentals:** Activity & Fragment lifecycle, ViewModel, UI optimizations.
 - **LeetCode Practice:** Solve 5 easy problems daily.
@@ -39,11 +39,11 @@
 - **LeetCode Practice:** Solve hard problems daily.
 - **Mock System Design Interviews:** Discuss HLD & LLD.
 
-### **Week 6: Behavioral Interviews & FAANG-Specific Prep**
+### **Week 6: Behavioral Interviews & ****-Specific Prep**
 - **Behavioral Questions:** STAR Method for leadership & problem-solving questions.
 - **Android Architecture & Jetpack Compose:** Deep dive into Compose state management.
-- **Solve Previous FAANG Interview Questions.**
-- **Apply Aggressively to FAANG & Top Companies.**
+- **Solve Previous **** Interview Questions.**
+- **Apply Aggressively to **** & Top Companies.**
 
 ### **Week 7: Intensive Mock Interviews**
 - **Daily Mock Interviews:** 1 DSA + 1 System Design.
@@ -54,7 +54,7 @@
 ### **Week 8: Final Prep & Applications**
 - **Last Round of Mock Interviews.**
 - **Negotiate Salary & Benefits.**
-- **Prepare for Final Rounds with FAANG Companies.**
+- **Prepare for Final Rounds with **** Companies.**
 
 ---
 
@@ -67,5 +67,5 @@
 
 ---
 
-🚀 **Stay consistent, and FAANG is possible in 2 months!**
+🚀 **Stay consistent, and **** is possible in 2 months!**
 
